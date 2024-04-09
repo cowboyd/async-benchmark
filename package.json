@@ -10,10 +10,12 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+"@types/co": "^4.6.6",
     "@types/filesize": "^5.0.0",
     "@types/node": "^20.12.3",
     "@types/text-table": "^0.2.5",
     "@types/underscore": "^1.11.15",
+"co": "^4.6.0",
     "commander": "^12.0.0",
     "effection": "^3.0.3",
     "fast-glob": "^3.3.2",
